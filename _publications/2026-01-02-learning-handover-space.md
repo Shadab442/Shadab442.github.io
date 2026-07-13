@@ -1,0 +1,13 @@
+---
+title: "Learning to Handover in the Space — Multi-Agent DRL for NTN in 6G/NextG"
+collection: publications
+permalink: /publication/learning-handover-space
+date: 2026-01-02
+venue: "IEEE Transactions on Mobile Computing"
+paperurl:
+status: under_review
+citation: "S. Mahboob, N. Mohammadi, and L. Liu, \"Learning to Handover in the Space — Multi-Agent DRL for NTN in 6G/NextG,\" under review at IEEE Transactions on Mobile Computing."
+excerpt: "A multi-agent deep reinforcement learning framework for handover optimization in non-terrestrial networks."
+---
+
+This manuscript develops multi-agent deep reinforcement learning methods for handover decisions in highly dynamic NTN scenarios. It is currently under review.
