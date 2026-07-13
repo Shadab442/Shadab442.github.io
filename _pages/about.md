@@ -32,17 +32,17 @@ I build and evaluate wireless systems across both simulation and testbed environ
 
 ## Selected Highlights
 
-* **Ph.D. in Computer Engineering**, Virginia Tech — ongoing, CGPA 3.96/4.00.
-* **Graduate Research Assistant** at Wireless@VT, working on O-RAN, NTN, 6G, and dynamic spectrum access research.
-* **AI/ML Engineering Research Intern** with the 6G Research Group at Keysight Technologies.
-* Publications in **IEEE Communications Surveys & Tutorials**, **Computer Networks**, **IEEE Transactions on Mobile Computing**, **IEEE VTC**, and **WiOpt**.
-* Recipient of the **Pratt Fellowship** at Virginia Tech.
+- **Ph.D. in Computer Engineering**, Virginia Tech, ongoing, CGPA 3.96/4.00.
+- **Graduate Research Assistant** at Wireless@VT, working on O-RAN, NTN, 6G, and dynamic spectrum access research.
+- **AI/ML Engineering Research Intern** with the 6G Research Group at Keysight Technologies.
+- Publications in **IEEE Communications Surveys & Tutorials**, **Computer Networks**, **IEEE Transactions on Mobile Computing**, **IEEE VTC**, and **WiOpt**.
+- Recipient of the **Pratt Fellowship** at Virginia Tech.
 
 ## Selected Publications
 
-1. **S. Mahboob** and L. Liu, “Revolutionizing Future Connectivity: A Contemporary Survey On AI-Empowered Satellite-Based Non-Terrestrial Networks in 6G,” *IEEE Communications Surveys & Tutorials*, 2024.
-2. **S. Mahboob**, K. Kar, J. Chakareski, and M. I. Alam, “CLoSER: Video caching in small-cell edge networks with local content sharing,” *Computer Networks*, 2023.
-3. **S. Mahboob**, K. Kar, and J. Chakareski, “Decentralized Collaborative Video Caching in 5G Small-Cell Base Station Cellular Networks,” *WiOpt*, 2021.
+1. **S. Mahboob** and L. Liu, "Revolutionizing Future Connectivity: A Contemporary Survey on AI-Empowered Satellite-Based Non-Terrestrial Networks in 6G," *IEEE Communications Surveys & Tutorials*, 2024.
+2. **S. Mahboob**, K. Kar, J. Chakareski, and M. I. Alam, "CLoSER: Video caching in small-cell edge networks with local content sharing," *Computer Networks*, 2023.
+3. **S. Mahboob**, K. Kar, and J. Chakareski, "Decentralized Collaborative Video Caching in 5G Small-Cell Base Station Cellular Networks," *WiOpt*, 2021.
 
 ## Contact
 
